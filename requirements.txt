@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+yfinance
+prophet
+matplotlib
+google-generativeai
+Pillow
+requests
+numpy
+base64
+ta
+pytz
