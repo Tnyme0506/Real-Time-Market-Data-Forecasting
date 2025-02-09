@@ -8,6 +8,5 @@ google-generativeai
 Pillow
 requests
 numpy
-base64
 ta
 pytz
